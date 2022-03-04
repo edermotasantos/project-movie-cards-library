@@ -1,3 +1,8 @@
+# Movie Cards Library
+
+![movie_cards_library-fast_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/82417443/156773874-965648ca-c4a4-4560-892e-96b433714069.gif)
+
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do
